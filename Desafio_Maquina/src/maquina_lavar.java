@@ -119,7 +119,7 @@ public class maquina_lavar {
 				System.out.println("Insira uma opção válida");
 				break;
 		}
-		System.out.println("Simulação Finalizada\n");
+		System.out.println("Simulaçãoa Finalizada\n");
 	}
 
 	public static void lavacaoPesada() throws InterruptedException {
