@@ -1,6 +1,6 @@
 package listaDeExercicios3;
 
-import entidade.PessoaFisica;
+import model.entidade.PessoaFisica;
 
 public class Principal {
 

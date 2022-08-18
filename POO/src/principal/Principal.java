@@ -2,10 +2,10 @@ package principal;
 
 import java.util.ArrayList;
 
-import entidade.Conta;
-import entidade.Pessoa;
-import entidade.PessoaFisica;
-import entidade.PessoaJuridica;
+import model.entidade.Conta;
+import model.entidade.Pessoa;
+import model.entidade.PessoaFisica;
+import model.entidade.PessoaJuridica;
 
 public class Principal {
 

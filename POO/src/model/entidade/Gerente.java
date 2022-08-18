@@ -1,4 +1,4 @@
-package entidade;
+package model.entidade;
 /**
  * Essa é uma classe filha de <b>Funcionario</b> que recebe uma comissão específica
  * 
