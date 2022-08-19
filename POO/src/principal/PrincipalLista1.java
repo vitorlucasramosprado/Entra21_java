@@ -1,6 +1,6 @@
 package principal;
 
-import model.entidade.Conta;
+import model.entity.Conta;
 
 public class PrincipalLista1 {
 

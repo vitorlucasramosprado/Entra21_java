@@ -2,9 +2,9 @@ package principal;
 
 import java.util.Scanner;
 
-import model.entidade.Endereco;
-import model.entidade.Funcionario;
-import model.entidade.Gerente;
+import model.entity.Endereco;
+import model.entity.Funcionario;
+import model.entity.Gerente;
 
 public class TestaFuncionario {
 

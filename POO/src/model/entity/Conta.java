@@ -1,4 +1,4 @@
-package model.entidade;
+package model.entity;
 
 public class Conta {
 	//Atributos
