@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import model.entity.Conta;
 import model.entity.Pessoa;
 import model.entity.PessoaFisica;
-import model.entity.PessoaJuridica;
 
 public class Principal {
 

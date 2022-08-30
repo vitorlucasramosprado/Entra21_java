@@ -1,7 +1,6 @@
 package principal;
 
 import controller.VacinaController;
-import model.repository.VacinaRepository;
 
 public class TestarExcluirVacina {
 
